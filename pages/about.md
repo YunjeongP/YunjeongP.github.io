@@ -39,15 +39,22 @@ Computer Science and Game Design<br>
 Mar 2015 - Apr 2022
 <br>
 <br>
+<br>
+<br>
 ![Fullsail logo](/assets/aboutme/fullsail.png){: .image-left }
 BS, **DigiPen Institute of Technology**<br>
 Computer Science and Game Design<br>
 Mar 2015 - Apr 2022
 <br>
-<br>![Fullsail logo](/assets/aboutme/fullsail.png){: .image-left }
+<br>
+<br>
+<br>
+![Fullsail logo](/assets/aboutme/fullsail.png){: .image-left }
 BS, **DigiPen Institute of Technology**<br>
 Computer Science and Game Design<br>
 Mar 2015 - Apr 2022
+<br>
+<br>
 <br>
 <br>
 ---
