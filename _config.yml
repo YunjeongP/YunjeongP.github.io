@@ -1,10 +1,10 @@
 ### Site Settings ###
 title               : Yunjeong Park
 description         : >-
-                      Hello, I am Jiwon
+                      Hello, I am Yunjeong
                       <br/>
-                      <strong>Software Engineer</strong> focused on <strong>AI</strong>, <strong>VR/AR</strong>, 
-                      <br/> <strong>Programming</strong> & <strong>Game Development</strong>.
+                      <strong>Promotor</strong> focused on <br/> <strong>Theatrical Production</strong> &
+                      <strong>Live concert</strong> 
 
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : YunjeongP/YunjeongP.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
