@@ -33,7 +33,7 @@ In addition to my software engineering skills, I am enjoying traveling, playing/
 
 ### **Education**
 
-![Fullsail logo](/assets/aboutme/fullsail.jpeg){: .image-left }
+![Fullsail logo](/assets/aboutme/fullsail.jpg){: .image-left }
 BS, **DigiPen Institute of Technology**<br>
 Computer Science and Game Design<br>
 Mar 2015 - Apr 2022
