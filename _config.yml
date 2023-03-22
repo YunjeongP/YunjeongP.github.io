@@ -1,13 +1,16 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Jiwon Jung
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+                      Hello, I am Jiwon
+                      <br/>
+                      <strong>Software Engineer</strong> focused on <strong>AI</strong>, <strong>VR/AR</strong>, 
+                      <br/> <strong>Programming</strong> & <strong>Game Development</strong>.
+
+baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : YunjeongP/YunjeongP.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
-open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+markdown            : kramdown
 
 
 ### Plugins ###
@@ -20,28 +23,29 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  
+  - pages/blog.html
+
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  name              : Jiwon Jung
+  image             : assets/home/4.jpg       #https://i.imgur.com/uyDNQnn.jpg
+# behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : jjwon6218@gmail.com
+# facebook          : your_username
+  github            : g1jung
 # gitlab            : your_username
-# instagram         : your_username
+  instagram         : aeffines
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+  linkedin          : jiwon-jung-608a01209
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
@@ -56,7 +60,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  
+
 
 ### Disqus ###
 disqus:
@@ -65,19 +69,9 @@ disqus:
 
 ### Analytics ###
 analytics:
-  enabled: false                                        # Set true to enable analytics
+  enabled: false                                         # Set true to enable analytics
   google:
-    tracking_id: your-google-tracking-id
-
-
-### Buy me a coffee ###
-# See https://www.buymeacoffee.com/
-buymeacoffee:
-  enabled: false
-  username: your_username
-  color: "#007bff"
-  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
-  description: "Support me on Buy me a coffee!"
+    tracking_id: G-R7N2XVNE51
 
 
 ### Defaults for collections ###
@@ -93,10 +87,15 @@ defaults:
     values:
       comments: false                                   # Set to true to enable disqus comments
 
-
 ### Exclude from processing ###
 exclude:
   - README.md
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+  - _projects/(1) PlaceHolder Project.md
+  - _projects/(2) Awesome Project.md
+  - _projects/(3) Empty Project.md
+  - _projects/(4) VVG on GitHub.md
+  - _projects/(5) The Fabulous.md
+  - _projects/(6) Dummy Project.md

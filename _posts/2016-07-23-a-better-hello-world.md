@@ -3,12 +3,12 @@ title: A better Hello World
 tags: [Software Development]
 style: fill
 color: dark
-description: A different “hello world” to demonstrate language features better.
+description: A different “hello world” to demonstrate language features better.  
 ---
 
 Source: [RICO STA. CRUZ](https://ricostacruz.com/til/a-better-hello-world)
 
-The “Hello world” program is usually the first introduction to any programming language. It looks like this in the C programming language:
+The “Hello world” program is usually the first introduction to any programming language. It looks like this in the C programming language:  
 
 ```c
 /* hello.c */
